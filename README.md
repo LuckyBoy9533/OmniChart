@@ -46,7 +46,7 @@ OmniChart 是一款基于 Python 开发的轻量级、智能化的桌面数据�
 
 **1. 克隆仓库**
 ```bash
-git clone [https://github.com/YourUsername/OmniChart.git](https://github.com/YourUsername/OmniChart.git)
+git clone https://github.com/LuckyBoy9533/OmniChart.git
 cd OmniChart
 ```
 
@@ -134,7 +134,7 @@ Go to the [Releases](../../releases) page, download the latest `OmniChart.exe`, 
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YourUsername/OmniChart.git](https://github.com/YourUsername/OmniChart.git)
+git clone https://github.com/LuckyBoy9533/OmniChart.git
 cd OmniChart
 ```
 
